@@ -1,0 +1,1 @@
+export const allowedKeys = ['API123', 'API456'];
