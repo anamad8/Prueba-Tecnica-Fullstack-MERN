@@ -3,7 +3,7 @@ import { login } from '../../api/auth'
 import { useNavigate } from 'react-router-dom'
 import { useAuthStore } from '../../stores/authStore'
 import { toast } from 'react-toastify'
-import { Link } from 'react-router-dom' // Importa el Link para la navegación
+import { Link } from 'react-router-dom'
 
 export default function LoginForm() {
     const [email, setEmail] = useState('')
