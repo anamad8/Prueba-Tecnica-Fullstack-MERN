@@ -9,9 +9,7 @@ Aplicación fullstack para gestión de tareas con autenticación JWT, desarrolla
 
 ## 🌐 Enlaces
 
-- **Frontend (React):** [https://tudominio-frontend.vercel.app](https://tudominio-frontend.vercel.app)
-- **Backend (API):** [https://tudominio-backend.render.com](https://tudominio-backend.render.com)
-- **Repositorio GitHub:** [https://github.com/anamad8/Prueba-Tecnica-Fullstack-MERN](https://github.com/tuusuario/todo-app-mern)
+- **Repositorio GitHub:** [https://github.com/anamad8/Prueba-Tecnica-Fullstack-MERN]
 
 ## 🛠️ Tecnologías
 
@@ -51,13 +49,12 @@ Aplicación fullstack para gestión de tareas con autenticación JWT, desarrolla
 
 -   cd frontend
 -   npm install
--   cp .env.example .env
 -   npm run dev
 
 **Probar el Sistema**
 
-Email: test@example.com
-Contraseña: Test1234
+Email: test@email.com
+Contraseña: 123456
 
 **O registrarse manualmente:*
 

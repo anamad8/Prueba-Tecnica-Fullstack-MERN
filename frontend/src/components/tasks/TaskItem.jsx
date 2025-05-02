@@ -4,7 +4,6 @@ import { toast } from 'react-toastify'
 
 export default function TaskItem({ task }) {
 
-    // console.log(task.title)
     const removeTask = useTaskStore(state => state.deleteTask)
     const updateStoreTask = useTaskStore(state => state.updateTask)
     const setSelectedTask = useTaskStore(state => state.setSelectedTask)
